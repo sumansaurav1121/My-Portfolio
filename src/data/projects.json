@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/Netflix.JPG",
+    "description": "A responsive Netflix Clone built using HTML and CSS that replicates the core layout and design of Netflix’s homepage. Features a dynamic movie grid, hover animations, and modern UI design inspired by the original platform.",
+    "skills": ["HTML", "CSS", "Responsive Design"],
+    "demo": "https://poetic-crisp-2713b0.netlify.app/",
+    "source": "https://github.com/sumansaurav143/Netflix-Clone"
+  },
+  {
+    "title": "Meal Finder App",
+    "imageSrc": "projects/MealFinder.JPG",
+    "description": "A React-based meal finder application that fetches data from an external API to display meal recipes with images. Includes responsive design, search functionality, and smooth UI interactions for an enhanced user experience.",
+    "skills": ["React JS", "API Integration", "Frontend Development"],
+    "demo": "https://meals-finder-app-21.netlify.app/",
+    "source": "https://github.com/sumansaurav143/Meal-Finder-App"
+  },
+  {
+    "title": "Music Buddy",
+    "imageSrc": "projects/MusicBuddy.JPG",
+    "description": "A fully functional web-based music player featuring playlist management, playback controls, and song visualization. Built using HTML, CSS, and JavaScript to provide an engaging audio streaming experience with an elegant and intuitive interface.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://sumansaurav143.github.io/Music-Buddy/",
+    "source": "https://github.com/sumansaurav143/Music-Buddy"
+  },
+  {
+    "title": "Crypto-Tracker",
+    "imageSrc": "projects/CryptoTracker.JPG",
+    "description": "A real-time cryptocurrency price tracking app built with React, Material UI, and Chart.js. Displays live market trends, price charts, and performance analytics with responsive visuals for a modern crypto monitoring experience.",
+    "skills": ["React JS", "Material UI", "Chart JS", "API Integration"],
+    "demo": "https://sumansaurav143.github.io/Crypto-Tracker/",
+    "source": "https://github.com/sumansaurav143/Crypto-Tracker"
+  },
+  {
+    "title": "HTML Quiz Game",
+    "imageSrc": "projects/HtmlQuiz.JPG",
+    "description": "An interactive quiz web app created using HTML, CSS, and JavaScript. Users can answer multiple-choice questions, receive instant feedback, and view their scores in an engaging, responsive, and visually appealing interface.",
+    "skills": ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
+    "demo": "https://html-quiz-game.netlify.app/",
+    "source": "https://github.com/sumansaurav143/HTML-Quizz-Game"
+  },
+  {
+    "title": "Weather Forecast",
+    "imageSrc": "projects/Weather.JPG",
+    "description": "A weather forecast application built with React JS and OpenWeatherMap API. Displays current weather and a five-day forecast with intuitive visuals, responsive layout, and accurate, real-time data updates for global locations.",
+    "skills": ["React JS", "API Integration", "Frontend UI", "OpenWeatherMap API"],
+    "demo": "https://weather-forcast-21.netlify.app/",
+    "source": "https://github.com/sumansaurav143/Weather-Forecast"
+  }
+]

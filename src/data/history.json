@@ -1,0 +1,57 @@
+[
+  {
+    "role": "Senior Software Developer - Freelancer",
+    "organisation": "Famrec",
+    "startDate": "Mar, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and maintained large-scale enterprise modules using React and TypeScript.",
+      "Improved application performance and reduced load times by 50%.",
+      "Implemented secure authentication and optimized API response handling.",
+      "Set up CI/CD pipelines to automate frontend and backend deployment on AWS.",
+      "Configured AWS services (EC2, S3, Route 53) for reliable hosting and scalability.",
+      "Deployed and hosted the application on a custom domain with SSL configuration."
+    ],
+    "imageSrc": "history/Famrec.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Teknobuilt Solutions PVT. LTD.",
+    "startDate": "Sept, 2022",
+    "endDate": "Oct 2025",
+    "experiences": [
+      "Designed and developed a full-stack family memory platform with React and Django.",
+      "Worked on dynamic geo-visualization dashboards using Google Maps and D3.js.",
+      "Improved application performance and reduced load times by 50%.",
+      "Collaborated with backend teams to optimize REST API integrations and data rendering.",
+      "Improved UI performance and enhanced user experience through reusable components."
+    ],
+    "imageSrc": "history/Teknobuilt.png"
+  },
+  {
+    "role": "Full-stack Developer Intern - Boot Camp",
+    "organisation": "Newton School",
+    "startDate": "Oct, 2021",
+    "endDate": "Sept, 2022",
+    "experiences": [
+      "Built and deployed full-stack projects using React, Node.js, and Express.",
+      "Gained hands-on experience with REST APIs, MongoDB, and responsive UI design.",
+      "Collaborated on team projects simulating real-world software development workflows.",
+      "Learned agile methodologies, Git version control, and clean coding principles."
+    ],
+    "imageSrc": "history/NewtonSchool.png"
+  },
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "MAKKU ENTERPRISES PVT. LTD.",
+    "startDate": "Sept, 2021",
+    "endDate": "Feb, 2022",
+    "experiences": [
+      "Developed responsive and accessible UI components using HTML, CSS, and JavaScript.",
+      "Contributed to building a reusable component library for internal products.",
+      "Assisted in debugging, optimizing layouts, and improving cross-browser compatibility.",
+      "Collaborated with designers to implement clean and consistent user interfaces."
+    ],
+    "imageSrc": "history/Adzquare.png"
+  }
+]

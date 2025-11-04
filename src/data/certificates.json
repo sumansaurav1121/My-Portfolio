@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Deloitte Australia Data Analytics",
+    "imageSrc": "certificate/dataanalytis.JPG",
+    "description": "Completed a Deloitte job simulation focused on data analysis and forensic technology. Created dashboards using Tableau and analyzed business data using Excel.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7337095106010800128/"
+  },
+  {
+    "title": "Generative AI Foundation Certificate",
+    "imageSrc": "certificate/genai.jpg",
+    "description": "Completed a foundation course on Generative AI, covering prompt engineering, model usage, and ethical AI practices.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7351511775374192643/"
+  },
+  {
+    "title": "Full Stack Development Certification",
+    "imageSrc": "certificate/NewtonS.PNG",
+    "description": "Gained expertise in building scalable full-stack web applications using React, Node.js, and Express.",
+    "source": "https://my.newtonschool.co/course/o852einbz8lj/certificate/lw7bf7wruf9u/verify"
+  },
+  {
+    "title": "Introduction to Artificial Intelligence",
+    "imageSrc": "certificate/ai.jpg",
+    "description": "Learned the fundamentals of Artificial Intelligence including machine learning concepts and model evaluation techniques.",
+    "source": "https://www.mygreatlearning.com/certificate/FTHVOWCN"
+  },
+  {
+    "title": "Introduction to AngularJS",
+    "imageSrc": "certificate/angular.jpg",
+    "description": "Studied AngularJS fundamentals and built interactive front-end web interfaces using MVC architecture.",
+    "source": "https://www.mygreatlearning.com/certificate/FJNJBDFR"
+  },
+  {
+    "title": "Business Intelligence using Power BI",
+    "imageSrc": "certificate/powerbi.JPG",
+    "description": "Developed dashboards and reports using Power BI to visualize and interpret business data.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7202191440716664832/"
+  }
+]

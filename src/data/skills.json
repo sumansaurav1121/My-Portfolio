@@ -1,0 +1,78 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/Typescript.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "AngularJS",
+    "imageSrc": "skills/Angular.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "D3.JS",
+    "imageSrc": "skills/d3.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/Redux.png"
+  },
+    {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/PostgreSQL.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Git Hub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Highcharts",
+    "imageSrc": "skills/highcharts.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/material-ui-icon.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/Bootstrap.png"
+  },
+  {
+    "title": "Ant Design",
+    "imageSrc": "skills/antd.png"
+  }
+]
