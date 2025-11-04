@@ -24,6 +24,10 @@
     "imageSrc": "skills/Angular.png"
   },
   {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  {
     "title": "Node JS",
     "imageSrc": "skills/node.png"
   },
@@ -35,7 +39,7 @@
     "title": "Redux",
     "imageSrc": "skills/Redux.png"
   },
-    {
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
