@@ -9,8 +9,10 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("about/Suman_Full.png")}
-          alt="Suman Saurav working on laptop"
+          alt="Suman Saurav"
           className={styles.aboutImage}
+          onContextMenu={(e) => e.preventDefault()}  // disable right-click
+          draggable="false"
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>

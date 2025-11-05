@@ -15,7 +15,10 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img src={getImageUrl(skill.imageSrc)} 
+                    alt={skill.title} 
+                    onContextMenu={(e) => e.preventDefault()}  // disable right-click
+                    draggable="false" />
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -29,6 +32,8 @@ export const Experience = () => {
                 <img
                   src={getImageUrl(historyItem.imageSrc)}
                   alt={`${historyItem.organisation} Logo`}
+                  onContextMenu={(e) => e.preventDefault()}  // disable right-click
+                  draggable="false"
                 />
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role}`}</h3>

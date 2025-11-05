@@ -166,3 +166,113 @@
     align-items: center;
   }
 }
+
+/* Overlay covers the whole page */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6); /* dark transparent background */
+  backdrop-filter: blur(4px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* ensures it’s above everything */
+}
+
+/* Popup box itself */
+.dialog {
+  background: rgba(255, 255, 255, 0.15); /* glassmorphism effect */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-radius: 20px;
+  padding: 30px 40px;
+  width: 350px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  color: white;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Smooth fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.dialog h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.dialog input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  margin-bottom: 20px;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: background 0.3s ease;
+}
+
+.dialog input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.dialog input:focus {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Primary button for download */
+.dialog button[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: white;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.dialog button[type="submit"]:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #2575fc 0%, #6a11cb 100%);
+}
+
+/* Cancel button */
+.cancelBtn {
+  background: transparent;
+  border: none;
+  color: #ddd;
+  margin-top: 10px;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.cancelBtn:hover {
+  color: #fff;
+}
+
+/* Optional - make text selectable color nice */
+::selection {
+  background: #2575fc;
+  color: #fff;
+}
+

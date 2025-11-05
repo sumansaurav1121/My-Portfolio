@@ -12,6 +12,8 @@ export const CertificateCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
         className={styles.image}
+        onContextMenu={(e) => e.preventDefault()}  // disable right-click
+        draggable="false"
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
