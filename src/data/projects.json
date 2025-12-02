@@ -13,6 +13,21 @@
     "source": "https://github.com/sumansaurav143/My-Portfolio"
   },
   {
+    "title": "IndiTalk AI",
+    "imageSrc": "projects/IndiTalkAI.JPG",
+    "description": "A lightweight AI chat app built with React, Vite, and Google GenAI. Features voice-to-text, text-to-speech, markdown support, and a clean glassmorphism UI for seamless conversations.",
+    "skills": [
+      "React JS",
+      "Google GenAI API",
+      "Speech Recognition",
+      "Text-to-Speech",
+      "Tailwind CSS",
+      "Markdown Rendering"
+    ],
+    "demo": "https://inditalk-ai.netlify.app/",
+    "source": "https://github.com/sumansaurav143/IndiTalkAI"
+  },
+  {
     "title": "Netflix Clone",
     "imageSrc": "projects/Netflix.JPG",
     "description": "A responsive Netflix Clone built using HTML and CSS that replicates the core layout and design of Netflix’s homepage. Features a dynamic movie grid, hover animations, and modern UI design inspired by the original platform.",
