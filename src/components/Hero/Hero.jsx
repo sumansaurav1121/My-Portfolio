@@ -28,8 +28,8 @@ export const Hero = () => {
 
       // Trigger the download
       const link = document.createElement("a");
-      link.href = "/Suman_Saurav_SDE_3Yr.pdf";
-      link.download = "Suman_Saurav_SDE_3Yr.pdf";
+      link.href = "/CV_SumanSaurav_3Yrs.pdf";
+      link.download = "CV_SumanSaurav_3Yrs.pdf";
       link.click();
 
       // alert("Resume downloading... Notification sent ✅");
@@ -67,9 +67,6 @@ export const Hero = () => {
           <div className={styles.contactContent}>
 
             <a
-              // href="/Suman_Saurav_SDE_3Yr.pdf"
-              // target="_blank"
-              // download="Suman_Saurav_SDE_3Yr.pdf"
               className={styles.contactBtn}
               onClick={() => setShowDialog(true)}
             >
